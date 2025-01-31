@@ -85,5 +85,5 @@ O programa deve imprimir o valor do ingresso. Para facilitar a impressão, utili
 
 ```python
 print('Valor do ingresso: R$', format(ingresso, '.2f').replace('.', ','))
-
+```
 Onde a variável ingresso armazenará o valor final do ingresso. Caso deseje, você pode alterar o nome dessa variável.
