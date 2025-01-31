@@ -1,6 +1,6 @@
 # 📚 **Exercícios Resolvidos**
 
-Este repositório contém uma série de **listas de exercícios** que resolvi ao longo do tempo, abordando diversos tópicos de programação. 
+Este repositório contém uma série de **listas de exercícios** que resolvi ao longo do tempo, abordando diversos tópicos de programação em Python. 
 
 ## 📂 **Conteúdo**
 
